@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "ECommerce.Sample.ConsoleClient": {
+      "commandName": "Project"
+    }
+  }
+}
